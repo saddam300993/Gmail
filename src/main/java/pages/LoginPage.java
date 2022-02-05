@@ -42,6 +42,7 @@ public class LoginPage extends BasePage{
 		Thread.sleep(3000);
 		password.sendKeys(pass);
 		pass_next.click();
+		//
 		
 		
 	}
